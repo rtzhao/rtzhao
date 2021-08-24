@@ -19,7 +19,7 @@
 - 💼**数据库**：MySQL，SQLServer，Redis
 - 💾**项目管理**：Maven，Git
 - 🔏**操作系统**：Windows，Linux
-- 🎬**设计**：Ps，Figma，Pr，Ae，Maya，3ds Max，C4D，U3D，UE4
+- 🎬**设计**：Ps，Figma，Pr，Ae，Au，Maya，3ds Max，C4D，U3D，UE4
 - 👓**其他编程语言**：C，C++，C#，Python，MATALAB
 
 
