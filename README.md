@@ -6,17 +6,19 @@
   <a href="https://www.rtzhao.site"><img src="https://img.shields.io/badge/-RtZhao's%20Blog-blue" alt="csdn"></a>
 </p>
 
-<img align='left' src="https://profile-counter.glitch.me/rtzhao/count.svg" alt="访客数量"/>
-<br/>
+<img align='right' src="https://profile-counter.glitch.me/rtzhao/count.svg" alt="访客数量"/>
 
+<br/>
+<br/>
 <br/>
 
 - 💻**后端**：Java，Servlet，JSP，JDBC，MyBatis，Spring，SpringMVC，SpringBoot，Dubbo，ZooKeeper
-- 📝**前端**：HTML，CSS，JavaScript，jQuery，Ajax
+- 📝**前端**：HTML，CSS，JavaScript，jQuery，Ajax，BootStrap，Layui，ECharts，Hexo
 - 💼**数据库**：MySQL，SQLServer，Redis
 - 💾**项目管理**：Maven，Git
 - 🔏**操作系统**：Windows，Linux
-- 
+- 🎬**设计**：Ps，Figma，Pr，Ae，Maya，3ds Max，C4D，U3D，UE4
+- 👓**其他编程语言**：C，C++，C#，Python，MATALAB
 
 
 
@@ -24,18 +26,14 @@
 
 <!--START_SECTION:waka-->
 
-```text
 
-💬 编程语言: 
-
-🔥 常用编辑器: 
-
-💻 操作系统: 
-
-```
 <!--END_SECTION:waka-->
 
-
+```text
+💬 编程语言: 
+🔥 常用编辑器: 
+💻 操作系统: 
+```
 
 
 
