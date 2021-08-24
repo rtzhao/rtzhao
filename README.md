@@ -32,12 +32,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-```text
-💬 编程语言: 
-🔥 常用编辑器: 
-💻 操作系统: 
-```
-
 
 
 **GitHub统计信息**
