@@ -28,7 +28,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 August, 2021 - 24 August, 2021
+
+Other   4 hrs 48 mins   ████████████████████▒░░░░   81.15 % 
+Java    32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+HTML    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+XML     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
