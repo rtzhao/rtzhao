@@ -31,7 +31,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Other   30 hrs 11 mins  ███████████████████░░░░░░   76.21 % 
 HTML    6 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
