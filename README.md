@@ -14,7 +14,8 @@
 
 **技能栈**
 
-- 💻**后端**：Java，Servlet，JSP，JDBC，MyBatis，Spring，SpringMVC，SpringBoot，Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
+- 💻**后端**：Java，Servlet，JSP，JDBC，MyBatis，Spring，SpringMVC，SpringBoot，</br>
+Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 - 📝**前端**：HTML，CSS，JavaScript，jQuery，Ajax，Bootstrap，Layui，ECharts，Hexo
 - 💼**数据库**：MySQL，SQLServer，Redis
 - 📺**Web服务器**：Tomcat，Nginx
