@@ -33,13 +33,13 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-Other        16 hrs 44 mins  █████████████████████▓░░░   86.68 % 
-HTML         2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other        6 hrs 19 mins   █████████████████▓░░░░░░░   70.56 % 
+HTML         2 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Java         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
