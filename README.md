@@ -33,9 +33,7 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 04 October, 2021
-
-HTML   3 mins          █████████████████████▒░░░   85.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
