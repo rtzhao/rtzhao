@@ -33,11 +33,12 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 21 October, 2021
+Week: 16 October, 2021 - 22 October, 2021
 
-HTML   4 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.94 % 
-CSS    4 hrs 30 mins   ████████████▒░░░░░░░░░░░░   49.79 % 
-Java   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+HTML   6 hrs 51 mins   ██████████████░░░░░░░░░░░   56.47 % 
+CSS    4 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.46 % 
+JSON   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Java   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 <!--END_SECTION:waka-->
 
