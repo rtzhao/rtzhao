@@ -33,12 +33,12 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2021 - 14 December, 2021
+Week: 09 December, 2021 - 15 December, 2021
 
-HTML   2 hrs 32 mins   ███████████████████▒░░░░░   76.92 % 
-JSON   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 % 
-CSS    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Java   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+HTML   2 hrs 39 mins   ███████████████████▒░░░░░   77.74 % 
+JSON   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+CSS    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
