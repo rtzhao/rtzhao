@@ -33,13 +33,13 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-HTML         21 hrs 2 mins   ████████████████████▒░░░░   81.84 % 
-CSS          2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-JavaScript   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Java         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+HTML         23 hrs 22 mins  ████████████████████▓░░░░   82.83 % 
+CSS          2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JavaScript   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Java         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 
