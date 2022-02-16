@@ -33,7 +33,11 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 3 mins
+
+Java   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
