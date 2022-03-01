@@ -32,15 +32,17 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 **本周编码时长**
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Java         13 hrs 43 mins  █████████████████████▓░░░   86.02 % 
-HTML         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-XML          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```text
+From: 21 February 2022 - To: 28 February 2022
+
+Java         9 hrs 16 mins   ██████████████████████░░░   88.48 %
+HTML         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
+
 <!--END_SECTION:waka-->
 
 
