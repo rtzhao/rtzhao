@@ -34,7 +34,12 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 May 2022 - To: 10 May 2022
+
+HTML   3 hrs 10 mins   ███████████████████▓░░░░░   78.50 %
+JSON   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+CSS    18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Java   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
