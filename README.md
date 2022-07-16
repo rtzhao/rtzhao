@@ -34,14 +34,14 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-HTML         10 hrs 58 mins  ████████████████████▓░░░░   82.88 %
-Java         2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+HTML         8 hrs 39 mins   ████████████████████░░░░░   80.21 %
+Java         1 hr 55 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
