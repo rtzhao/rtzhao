@@ -34,12 +34,13 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
+From: 22 March 2023 - To: 29 March 2023
 
-JavaScript   26 mins         █████████████████████░░░░   83.39 %
-CSS          4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+JavaScript   26 mins         ████████████████████▓░░░░   83.24 %
+CSS          4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
 JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
