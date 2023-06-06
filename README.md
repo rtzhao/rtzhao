@@ -34,9 +34,11 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-XML   20 mins         █████████████████████████   100.00 %
+XML          20 mins         █████████████▒░░░░░░░░░░░   52.78 %
+JavaScript   15 mins         ██████████▒░░░░░░░░░░░░░░   41.56 %
+HTML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
