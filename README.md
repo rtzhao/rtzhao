@@ -34,12 +34,9 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-HTML         3 hrs 32 mins   ██████████████████░░░░░░░   72.07 %
-JSON         53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-Java         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
