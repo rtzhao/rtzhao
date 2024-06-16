@@ -34,12 +34,12 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 14 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
-HTML         4 hrs 57 mins   ██████████████████░░░░░░░   71.72 %
-JSON         1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-INI          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+HTML         4 hrs 58 mins   █████████████████▒░░░░░░░   68.98 %
+JSON         2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+INI          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
