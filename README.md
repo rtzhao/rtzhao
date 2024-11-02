@@ -34,7 +34,7 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
 HTML         1 hr 15 mins    ███████████████████▒░░░░░   77.20 %
 Java         17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
