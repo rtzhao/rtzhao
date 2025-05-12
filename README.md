@@ -34,11 +34,11 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Java   2 hrs 23 mins   █████████████████▓░░░░░░░   70.99 %
-HTML   55 mins         ███████░░░░░░░░░░░░░░░░░░   27.72 %
-JSON   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Java   2 hrs 23 mins   ████████████████▓░░░░░░░░   66.53 %
+HTML   1 hr 9 mins     ████████░░░░░░░░░░░░░░░░░   32.26 %
+JSON   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
