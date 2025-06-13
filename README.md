@@ -34,11 +34,9 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-HTML    15 mins         █████████████████████▓░░░   86.94 %
-YAML    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+HTML   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
