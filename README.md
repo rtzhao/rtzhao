@@ -34,10 +34,10 @@ Dubbo，ZooKeeper，Spring Session，FastDFS，RabbitMQ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-HTML         23 mins               ███████████████████████▒░   93.65 %
-JavaScript   1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+HTML         16 mins               ██████████████████████▓░░   90.98 %
+JavaScript   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
 ```
 
 <!--END_SECTION:waka-->
